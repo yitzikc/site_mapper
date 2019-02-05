@@ -1,0 +1,6 @@
+# List of package requiremnents for PIP, in the format described here: https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format
+
+cchardet
+aiodns
+aiohttp
+yarl
